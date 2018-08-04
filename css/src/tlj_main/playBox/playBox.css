@@ -37,8 +37,7 @@
       background-position: top;
       background-size: 110%;}
 
-    #bannerBox li:nth-child(1) {
-      /*background-image: url("../../../../../img/tlj_main_web_img/playBox/banner01.jpg");*/
+    .add_banner > li:nth-child(1) {
       background-image: url("../../../../img/tlj_main_web_img/playBox/banner01.jpg");
     }
     /*#bannerBox li:nth-child(2) {}*/
